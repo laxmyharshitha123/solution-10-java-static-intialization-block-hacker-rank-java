@@ -1,0 +1,1 @@
+# solution-10-java-static-intialization-block-hacker-rank-java
